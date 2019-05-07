@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="2.0"?>
 <project name='file-system-tasks' default='copy'>
 	<target name='clean'>
 		<delete dir='build'/>
